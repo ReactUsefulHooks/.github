@@ -1,3 +1,5 @@
 <p align='center'>
-  <img src='./static/logo.png' />
+  <img src='./static/full_logo.png' />
 </p>
+
+# 🚧 work in progress...
