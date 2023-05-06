@@ -26,5 +26,5 @@ Looking to contribute? Look for the Good First Issue labeled in repositories.
 
 ### Feature Requests
 
-Please post issue to suggest new features of react-hooks.
+Please post issue to suggest new features of react-hooks.<br />
 **[Suggest Feature Requests]()**
