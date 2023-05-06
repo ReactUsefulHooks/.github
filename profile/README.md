@@ -22,7 +22,7 @@ Organization, `ReactUsefulHooks`, is created to answering above question.<br />
 
 > We believe in the greatness of collective intelligence.
 
-Looking to contribute? Look for the Good First Issue labeled in repositories.
+Looking to contribute? Look for the Good First Issue labeled in each repositories.
 
 ### Feature Requests
 
