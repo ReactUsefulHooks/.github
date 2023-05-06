@@ -3,10 +3,10 @@
 </p>
 
 <p align='center'>
-    <a href="">
+    <a href="https://github.com/ReactUsefulHooks/.github/blob/main/profile/README.md">
         <img src="https://img.shields.io/badge/-ENGLISH-blueviolet?style=for-the-badge" />
     </a>
-    <a href="">
+    <a href="https://github.com/ReactUsefulHooks/.github/blob/main/profile/README.ko.md">
         <img src="https://img.shields.io/badge/-KOREAN-violet?style=for-the-badge"/>
     </a>
 </p>
@@ -27,4 +27,4 @@ Looking to contribute? Look for the Good First Issue labeled in repositories.
 ### Feature Requests
 
 Please post issue to suggest new features of react-hooks.<br />
-**[Suggest Feature Requests]()**
+**[Suggest Feature Requests](https://github.com/ReactUsefulHooks/.github/issues/new?assignees=&labels=enhancement&template=feature-request.md)**
