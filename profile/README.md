@@ -44,3 +44,4 @@ Please post issue to suggest new features of react-hooks.<br />
 - use-toast(🚧 work in progress)
 - use-modal(🚧 work in progress)
 - use-reactive(🚧 work in progress)
+- use-scroller(🚧 work in progress)
