@@ -13,7 +13,7 @@
 <p align='center'>
    <!-- slack -->
   <a target="_blank" href="https://reactusefulhooks.slack.com">
-    <img src="https://img.shields.io/badge/slack-reactusefulhooks-blue.svg?logo=slack" alt="slack" />
+    <img src="https://img.shields.io/badge/slack-reactusefulhooks-9cf.svg?logo=slack" alt="slack" />
   </a> 
 </p>
 
