@@ -12,7 +12,7 @@
 </p>
 <p align='center'>
    <!-- slack -->
-  <a target="_blank" href="https://reactusefulhooks.slack.com">
+  <a target="_blank" href="[https://reactusefulhooks.slack.com](https://join.slack.com/t/reactusefulhooks/shared_invite/zt-1y5k0jp6r-VR0EqfDgcaT4eIW9xDzg0w)">
     <img src="https://img.shields.io/badge/slack-reactusefulhooks-9cf.svg?logo=slack" alt="slack" />
   </a> 
 </p>
