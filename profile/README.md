@@ -28,7 +28,7 @@ Organization, `ReactUsefulHooks`, is created to answering above question.<br />
 
 > We believe in the greatness of collective intelligence.
 
-If you have any questions or suggestions, feel free to join our [slack channel](https://reactusefulhooks.slack.com).
+If you have any questions or suggestions, feel free to join our [slack channel](https://join.slack.com/t/reactusefulhooks/shared_invite/zt-1y5k0jp6r-VR0EqfDgcaT4eIW9xDzg0w).
 
 Looking to contribute? Look for the Good First Issue labeled in each repository.
 
